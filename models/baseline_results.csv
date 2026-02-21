@@ -1,0 +1,2 @@
+model_name,train_rmse,train_mae,train_r2,test_rmse,test_mae,test_r2
+DummyRegressor (mean),23.521348177041205,19.962470682849926,0.0,23.48863302709129,19.96256241721514,-2.0403908047361696e-05
