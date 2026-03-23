@@ -1,0 +1,50 @@
+Feature,Importance,Category
+Traffic Volume,0.5556273,Traffic Volume
+Pedestrian and Cyclist Count,0.14372301,Other
+Road Capacity Utilization,0.124218956,Other
+Area Name_Jayanagar,0.028616715,Area
+Area Name_Hebbal,0.014410758,Area
+Speed_Volume_Ratio,0.0124122985,Other
+Incident Reports,0.010522858,Other
+Traffic Volume_Rolling7,0.009121312,Traffic Volume
+Road/Intersection Name_South End Circle,0.006040497,Road
+Weather Conditions_Fog,0.0051376238,Weather
+Road/Intersection Name_Tumkur Road,0.004402454,Road
+Day_of_Month,0.0035964,Other
+Road/Intersection Name_Hebbal Flyover,0.00343828,Road
+Area Name_M.G. Road,0.0033648412,Area
+Road/Intersection Name_ITPL Main Road,0.0033063693,Road
+Area Name_Indiranagar,0.003297096,Area
+Weather Conditions_Rain,0.0032119418,Weather
+Traffic Volume_Lag1,0.0031842762,Traffic Volume
+Public Transport Usage,0.0031151297,Other
+Traffic Signal Compliance,0.003026355,Other
+Parking Usage,0.0030108145,Other
+Road/Intersection Name_Sarjapur Road,0.002995235,Road
+Area Name_Yeshwanthpur,0.0029631122,Area
+Traffic Volume_Lag7,0.002859515,Traffic Volume
+Congestion Level_Lag1,0.0027690046,Lag Features
+Average Speed_Lag1,0.0027050478,Lag Features
+Weather Conditions_Windy,0.0026713945,Weather
+Road/Intersection Name_Anil Kumble Circle,0.0026695265,Road
+Road/Intersection Name_Silk Board Junction,0.0025910467,Road
+Average Speed_Rolling7,0.0025888507,Rolling Features
+Congestion Level_Rolling7,0.002541539,Rolling Features
+Average Speed_Lag7,0.002536273,Lag Features
+Weather Conditions_Overcast,0.0025055835,Weather
+Congestion Level_Lag7,0.0023503725,Lag Features
+Day_of_Week,0.0023454358,Other
+Road/Intersection Name_Ballari Road,0.002313185,Road
+Roadwork and Construction Activity_Yes,0.0022797452,Other
+Month,0.0022060147,Other
+Area Name_Koramangala,0.0021490757,Area
+Area Name_Whitefield,0.0020758982,Area
+Road/Intersection Name_Hosur Road,0.0016322,Road
+Road/Intersection Name_Marathahalli Bridge,0.0015872924,Road
+Road/Intersection Name_Jayanagar 4th Block,0.0010235558,Road
+Road/Intersection Name_Yeshwanthpur Circle,0.00085588626,Road
+Is_Weekend,0.0,Other
+Quarter,0.0,Other
+Road/Intersection Name_CMH Road,0.0,Road
+Road/Intersection Name_Sony World Junction,0.0,Road
+Road/Intersection Name_Trinity Circle,0.0,Road
